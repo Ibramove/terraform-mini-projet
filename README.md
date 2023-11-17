@@ -1,4 +1,14 @@
 # terraform-mini-projet
+Author: Ibrahima SYLL
+
+Context: DevOps Bootcamp - class 15
+
+Training Center: eazytraining.fr
+
+Date of Publication: November 17, 2023
+
+LinkedIn: https://www.linkedin.com/in/ibrahima-syll-bb3775112/  
+
 
 
 # Projet Terraform: Déploiement d'une Infrastructure AWS
